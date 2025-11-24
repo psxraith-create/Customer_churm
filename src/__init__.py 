@@ -1,0 +1,10 @@
+"""
+Customer Churn Prediction Package.
+
+This package provides modules for:
+- Data preprocessing
+- Feature engineering
+- Model training
+- Model evaluation
+- Utility helper functions
+"""
